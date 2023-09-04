@@ -16,7 +16,7 @@ function ResumeNew() {
       <Container fluid className="resume-section">
 
         <Row>
-          <iframe title="resume" src="https://drive.google.com/file/d/1Pqns9NWpLfAdkTuz0ISSW3kVfa2N-3jO/preview" width={width} height="480" allow="autoplay"></iframe>
+          <iframe title="resume" src="https://drive.google.com/file/d/1Mjgr05T8E2KISCfAESUQS4niG3E7oey5/preview" width={width} height="480" allow="autoplay"></iframe>
         </Row>
 
       </Container>
